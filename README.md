@@ -1,1 +1,3 @@
 # Clap-Switch
+
+This project demonstrates a Clap Switch Circuit that activates an output (LED) in response to a clapping sound. Built using a 555 Timer IC, BC 547 Transistor, and a condenser microphone, the circuit converts sound energy into electrical signals. When a clap is detected, the microphone sends a signal to the transistor, triggering the 555 timer to light up the LED. The duration for which the LED stays on depends on the capacitor's value, allowing for simple pulse control. This system, powered by a 9V battery, offers a touchless, cost-effective, and safe method for controlling devices—especially useful for the elderly or mobility-impaired individuals.
